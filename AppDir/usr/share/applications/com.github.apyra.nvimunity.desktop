@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=NvimUnity
+Comment=Bridge between Unity and Neovim
+Exec=nvimunity %f
+Icon=nvimunity
+Terminal=false
+Type=Application
+Categories=Development
+StartupNotify=false

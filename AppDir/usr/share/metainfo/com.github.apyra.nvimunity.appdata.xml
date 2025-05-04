@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+	<id>com.github.apyra.nvimunity</id>
+	<metadata_license>MIT</metadata_license>
+	<project_license>MIT</project_license>
+	<name>NvimUnity</name>
+	<summary>Use NeoVim as external editor in Unity</summary>
+	<description>
+		<p>NvimUnity is a tool that integrates Neovim as the external editor for the Unity game engine.</p>
+	</description>
+
+	<developer id="com.github.apyra">
+		<name>apyra</name>
+		<url type="homepage">https://github.com/apyra</url>
+		<url type="donation">https://github.com/sponsors/apyra</url>
+		<url type="help">https://github.com/apyra/nvim-unity/discussions</url>
+	</developer>
+
+	<launchable type="desktop-id">com.github.apyra.nvimunity.desktop</launchable>
+
+	<url type="homepage">https://github.com/apyra/nvim-unity</url>
+	<url type="bugtracker">https://github.com/apyra/nvim-unity/issues</url>
+
+	<content_rating type="oars-1.1"/>
+
+	<releases>
+		<release version="1.0.0" date="2025-05-05">
+			<description>
+				<p>Initial release of NvimUnity.</p>
+			</description>
+		</release>
+	</releases>
+</component>
